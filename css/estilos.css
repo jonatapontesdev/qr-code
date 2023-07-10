@@ -7,7 +7,7 @@ body {
 .conteudo-geral {
 	display: flex;
 	align-items: center;
-	min-height: calc(100vh - 15px);
+	min-height: 100vh;
 	justify-content: center;
 }
 
